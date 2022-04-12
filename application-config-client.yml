@@ -1,10 +1,10 @@
 server:
-  port: 8021
+  port: 9021
 
 
 spring:
   application:
-    name: consumer-service-21
+    name: config-client-9021
 
 eureka:
   client:
